@@ -1,0 +1,122 @@
+@media only screen and (max-width: 1800px){
+}
+
+@media only screen and (max-width: 1600px){
+}
+
+@media only screen and (max-width: 1440px){
+}
+
+
+@media only screen and (max-width: 1366px){
+
+	.footer-banner-content p{font-size: 22px;}
+	.footer-banner-btn span{left: 5%;}
+}
+
+
+@media only screen and (max-width: 1199px){
+	.banner-title h2{font-size: 30px;line-height: 40px;}
+	.bannerbtn{line-height: 30px;display: block;margin-left: 0px;width: max-content;margin-top: 15px;}
+	.service-video-sec{position: relative;width: 100%;}
+	.ser-vid::before{display: none;}
+	.service-left{width: 45%;}
+	.service-right{width: 45%;}
+	.service-content{margin: 30px 0 0;}
+	.service-left li{padding: 15px 40px;}
+	.service-right li{padding: 15px 40px;}
+	.service-left li span {top: 20px;}
+	.service-right li span {top: 20px;}
+	.service-left h3{font-size: 18px;}
+	.service-right h3{font-size: 18px;}
+	.ser-vid{width: 600px;}
+	.footer-banner-btn span{left: 10%;bottom: 30%;}
+	.footer-banner-btn a{width: 100%;padding: 55px 20px;}
+	.footer-banner-btn span img {
+	width: 40px;
+	height: 40px;
+}
+
+}
+
+
+@media only screen and (max-width: 991px){
+
+	#mobilelearn a{visibility: hidden;}
+	#mobilelearn span{visibility: visible;left: 80%;}
+	.main-over-iamge {display: none;}
+	.banner-top{width: 100%;}
+	.about-us-sec{width: 100%;}
+	.service-main-title h2{font-size: 32px;}
+	.step-main-title h2{font-size: 32px;}
+	.footer-link li{display: block;margin-left: 0;padding: 10px 0}
+	.footer-link li::before{display: none;}
+	.footer-logo{width: 33.33%;}
+	.title-name{width: 33.33%;}
+	.footer-link{width: 33.33%;justify-content: center;}
+	.footer-banner-btn span {left: 5%;bottom: 35%;}
+	.footer-banner-btn a{text-align: right;}
+	.blog-box{width: 50%;}
+}
+
+
+@media only screen and (max-width: 767px){
+
+	.about-us-sec p{font-size: 16px;}
+	.about-section {padding: 30px 0 40px;}
+	.service-main-title h2{font-size: 22px;}
+	.ser-vid::after{display: none;}
+	.ser-vid {width: 100%;}
+	.service-left {width: 100%;}
+	.service-right {width: 100%;}
+	.service-left h3{line-height: 45px;}
+	.service-left li span {top: 10px;}
+	.service-right h3{line-height: 45px;}
+	.service-right li span {top: 10px;}
+	.step-main-title h2{font-size: 22px;}
+	.step-box{width: 100%;}
+	.step-box span{right: 50%;margin: 0 auto;}
+	.store-btn a img {width: 200px;height: auto;}
+	.footer-banner-btn{width: 80%;}
+	.footer-banner-section{display: block;}
+	.footer-banner-content {width: 100%;padding: 30px 15px 0px 15px;}
+	.footer-inner{display: block;}
+	.footer-logo{width: 100%;margin-top: 20px;}
+	.title-name{width: 100%;margin-top: 20px;}
+	.footer-link{width: 100%;margin-top: 20px;}
+	.footer-banner-btn a{text-align: center;}
+	#light {top: 50%;left: 0;margin-left: 0px;right: 0;}
+	#VisaChipCardVideo {width: 100% !important;}
+	.blog-box{width: 80%;}
+	.category-names a{font-size: 14px;}
+	.blog-name{font-size: 16px;}
+	.short-desc{font-size: 14px;}
+	.blog-more-btn{font-size: 14px;}
+
+
+}
+
+
+@media only screen and (max-width: 575px){
+	.banner-title h2 {font-size: 24px;line-height: 30px;letter-spacing: 0;}
+	.bannerbtn {line-height: 25px;font-size: 13px;}
+	.service-left p{font-size: 13px;}
+	.service-left h3{line-height: 25px;font-size: 16px;}
+	.service-left li span img {width: 40px;height: 40px;}
+	.service-left li span {top: 8px;}
+	.service-right p{font-size: 13px;}
+	.service-right h3{line-height: 25px;font-size: 16px;}
+	.service-right li span img {width: 40px;height: 40px;}
+	.service-right li span {top: 8px;}
+	.footer-banner-content a{padding: 10px 15px;padding: 10px 15px;display: block;text-align: center;margin-top: 20px;line-height: 30px;}
+	.footer-banner-btn span{left: 10%;}
+	.footer-banner-content p{font-size: 24px;}
+	.footer-banner-content a{font-size: 15px;}
+}
+
+
+@media only screen and (max-width: 479px){
+	.store-btn a img {width: 120px;height: auto;}
+	.footer-banner-btn{width: 90%;}
+	.footer-banner-btn span{left: 3%;}
+}
